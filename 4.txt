@@ -1,6 +1,9 @@
 
 
 {
+
+
+
 //0730JAR
 "spider":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0926.jar",
 
@@ -234,15 +237,10 @@
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}, 
 	{
-		"name": "OKjx综合",
-		"type": 0,
-		"url": "https://okjx.cc/?url="
-	},
-	{
 		"name": "BL综合",
 		"type": 0,
 		"url": "https://player.dxyy.cf/WndexxX.php/?url="
-                                "url": "https://player.maqq.cn/?url="
+        "url": "https://player.maqq.cn/?url="
 	},
                 {
 		"name": "BL综合2",
