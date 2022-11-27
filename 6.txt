@@ -26,6 +26,15 @@
 	     "jar":"http://52bsj.vip:81/api/v3/file/get/41344/jar0826.jar?sign=ynL7G6jUsM4xB5uXv1Ph-U6_QjzfeRLY0IvJkzErbeI%3D%3A0"
     },
     {
+		      "key": "zhibo5",
+      "name": "🌴金秋直播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=http://52bsj.vip:81/api/v3/file/get/62381/jq.txt?sign=qAfuOlrK3gWlYNqmv9-6XLZ5Nmm-M0imNDn2yE1YQlE%3D%3A0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+    {
       "key": "youku",
       "name": "👑优酷(官)",
       "type": 0,
