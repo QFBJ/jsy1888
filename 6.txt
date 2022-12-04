@@ -26,6 +26,16 @@
 	     "jar":"http://52bsj.vip:81/api/v3/file/get/41344/jar0826.jar?sign=ynL7G6jUsM4xB5uXv1Ph-U6_QjzfeRLY0IvJkzErbeI%3D%3A0"
     },
     {
+
+      "key": "zhibo24",
+      "name": "🌺港澳福利🌺",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://pan.css.lc/api/v3/file/get/90014/%E7%89%B9%E6%AE%8A%E6%BA%90.txt?sign=cqCm82swqD__acDM2mzgDfkJL4_BuAlPLkD7FopxnSI%3D%3A0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
 		      "key": "zhibo5",
       "name": "🌴金秋直播",
       "type": 4,
