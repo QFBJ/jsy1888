@@ -16,6 +16,16 @@
 
 "sites":[
   {
+      "key": "zhibo1",
+      "name": "🌍世界杯4K源 ",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://agit.ai/yjl/tv1/raw/branch/master/tv.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+  },
+
+  {
 	     "key": "Lezhu_spider",
 	     "name": "🎎TVBOX",
 	     "api": "csp_Lezhu",
