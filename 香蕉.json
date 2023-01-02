@@ -13,91 +13,61 @@
 
 "sites":[
   
- {{
-
-
-//0730JAR
-"spider":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
-
-
-
-
-
-
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3pCLnR4dA=="]}]}],
-
-"sites":[
-  
- {{
-
-
-//0730JAR
-"spider":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
-
-
-
-
-
-
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3pCLnR4dA=="]}]}],
-
-"sites":[
-  
-{"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
-{"key":"18","name":"🔞🈲分割线——————","type":0,"api":""},
-{"key":"12","name":"🔞分割线——————","type":0,"api":""},
-{"key":"AList",	"name":"🔞AList",	"type":3,"api":"csp_AList",	"searchable":1,"filterable":1,"ext":"🔞9T$https://drive.9t.ee#🔞木偶$https://www.kugutsu.ml",	"jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/cs.jar"},
+{"key":"1","name":"&#128286;&#127538;&#26410;&#25104;&#24180;&#20154;&#31105;&#27490;&#35775;&#38382;&#65292;&#35831;&#27490;&#27493;&#65281;&#65281;","type":0,"api":""},
+{"key":"18","name":"&#128286;&#127538;&#20998;&#21106;&#32447;������","type":0,"api":""},
+{"key":"12","name":"&#128286;&#20998;&#21106;&#32447;������","type":0,"api":""},
+{"key":"AList",	"name":"&#128286;AList",	"type":3,"api":"csp_AList",	"searchable":1,"filterable":1,"ext":"&#128286;9T$https://drive.9t.ee#&#128286;&#26408;&#20598;$https://www.kugutsu.ml",	"jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/cs.jar"},
 		{
-            "key" : "drpy_js_喵了个咪",
-            "name" : "🔞喵了个咪[请更换解析]",
+            "key" : "drpy_js_&#21941;&#20102;&#20010;&#21674;",
+            "name" : "&#128286;&#21941;&#20102;&#20010;&#21674;[&#35831;&#26356;&#25442;&#35299;&#26512;]",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
         },
-		 {"key": "csp_xBPQ_香蕉AV解说","name": "🏆香蕉解说","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E8%A7%A3%E8%AF%B4.json"},
-    {"key": "csp_xBPQ_香蕉资源","name": "🏆香蕉资源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E8%B5%84%E6%BA%90.json"},
-{"key": "csp_xBPQ_香蕉超清","name": "🏆香蕉超清原","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E8%B6%85%E6%B8%85.json"},
-    {"key": "csp_xBPQ_香蕉超清我","name": "🏆香蕉超清我","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/yjl/dc/raw/branch/master/%e6%96%b0%e9%a6%99%e8%95%89%e8%b6%85%e6%b8%85%e8%b5%84%e6%ba%90.json"},
-   {"key": "csp_xBPQ_香蕉超清改","name": "🏆香蕉超清改","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/香蕉超清.json"},
-    {"key": "csp_xBPQ_香蕉国产","name": "🏆香蕉国产","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E5%9B%BD%E4%BA%A7.json"},
-    {"key": "csp_xBPQ_香蕉久久热","name": "🏆香蕉久久热","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E4%B9%85%E4%B9%85%E7%83%AD.json"},
-    {"key": "csp_xBPQ_香蕉废柴","name": "🏆香蕉废柴","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E5%BA%9F%E6%9F%B4.json"},
-    {"key": "csp_xBPQ_香蕉直播我","name": "🏆香蕉直播我","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/yjl/dc/raw/branch/master/%e6%b5%8b%e8%af%95%e9%a6%99%e8%95%89%e7%9b%b4%e6%92%ad.json"},
-    {"key": "csp_xBPQ_香蕉直播","name": "🏆香蕉直播","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/yjl/dc/raw/branch/master/%e4%bf%ae%e6%94%b9%e9%a6%99%e8%95%89%e7%9b%b4%e6%92%ad.json"},
-    {"key": "csp_xBPQ_香蕉直播1","name": "🏆香蕉直播1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E7%9B%B4%E6%92%AD.json"},
-    {"key": "csp_xBPQ_香蕉搜索","name": "🏆香蕉搜索","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E6%90%9C%E7%B4%A2.json"},
-    {"key": "csp_xBPQ_西瓜影视","name": "🏆西瓜影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/西瓜影视.json"},
-    {"key": "csp_xBPQ_黄仓库","name": "🏆黄仓库","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/黄仓库.json"},
-    {"key": "csp_xBPQ_banban","name": "🏆banban","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/banban.json"},
-    {"key": "csp_xf_18av","name": "🏆18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/18av.json"},
-    {"key": "csp_xBPQ-爱看影院","name": "🏆爱看影院️","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/爱看影院️.json"},
-    {"key": "csp_xBPQ_麻豆映画","name": "🏆麻豆映画","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%BA%BB%E8%B1%86%E6%98%A0%E7%94%BB.json"},
-    {"key": "csp_xBPQ_香蕉","name": "🏆香蕉","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89.json"},
-    {"key": "csp_xBPQ_性欲轮回","name": "🏆性欲轮回","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E6%80%A7%E6%AC%B2%E8%BD%AE%E5%9B%9E.json"},
-    {"key": "csp_xBPQ_性欲轮回[分类]","name": "🏆性欲轮回[分类]","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E6%80%A7%E6%AC%B2%E8%BD%AE%E5%9B%9E_%E5%88%86%E7%B1%BB_.json"},
-    {"key": "csp_xBPQ_精东影业1","name": "🏆精东影业1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E7%B2%BE%E4%B8%9C%E5%BD%B1%E4%B8%9A1.json"},
-    {"key": "csp_xBPQ_精东影业2","name": "🏆精东影业2","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E7%B2%BE%E4%B8%9C%E5%BD%B1%E4%B8%9A2.json"},
-    {"key": "csp_xBPQ_AVideo","name": "🏆AVideo","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/AVideo.json"},
-    {"key": "csp_xBPQ_黄瓜","name": "🏆黄瓜","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/黄瓜.json"},
+		 {"key": "csp_xBPQ_&#39321;&#34121;AV&#35299;&#35828;","name": "&#127942;&#39321;&#34121;&#35299;&#35828;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E8%A7%A3%E8%AF%B4.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;&#36164;&#28304;","name": "&#127942;&#39321;&#34121;&#36164;&#28304;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E8%B5%84%E6%BA%90.json"},
+{"key": "csp_xBPQ_&#39321;&#34121;&#36229;&#28165;","name": "&#127942;&#39321;&#34121;&#36229;&#28165;&#21407;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E8%B6%85%E6%B8%85.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;&#36229;&#28165;&#25105;","name": "&#127942;&#39321;&#34121;&#36229;&#28165;&#25105;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/yjl/dc/raw/branch/master/%e6%96%b0%e9%a6%99%e8%95%89%e8%b6%85%e6%b8%85%e8%b5%84%e6%ba%90.json"},
+   {"key": "csp_xBPQ_&#39321;&#34121;&#36229;&#28165;&#25913;","name": "&#127942;&#39321;&#34121;&#36229;&#28165;&#25913;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/&#39321;&#34121;&#36229;&#28165;.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;&#22269;&#20135;","name": "&#127942;&#39321;&#34121;&#22269;&#20135;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E5%9B%BD%E4%BA%A7.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;&#20037;&#20037;&#28909;","name": "&#127942;&#39321;&#34121;&#20037;&#20037;&#28909;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E4%B9%85%E4%B9%85%E7%83%AD.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;&#24223;&#26612;","name": "&#127942;&#39321;&#34121;&#24223;&#26612;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E5%BA%9F%E6%9F%B4.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;&#30452;&#25773;&#25105;","name": "&#127942;&#39321;&#34121;&#30452;&#25773;&#25105;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/yjl/dc/raw/branch/master/%e6%b5%8b%e8%af%95%e9%a6%99%e8%95%89%e7%9b%b4%e6%92%ad.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;&#30452;&#25773;","name": "&#127942;&#39321;&#34121;&#30452;&#25773;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/yjl/dc/raw/branch/master/%e4%bf%ae%e6%94%b9%e9%a6%99%e8%95%89%e7%9b%b4%e6%92%ad.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;&#30452;&#25773;1","name": "&#127942;&#39321;&#34121;&#30452;&#25773;1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E7%9B%B4%E6%92%AD.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;&#25628;&#32034;","name": "&#127942;&#39321;&#34121;&#25628;&#32034;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89%E6%90%9C%E7%B4%A2.json"},
+    {"key": "csp_xBPQ_&#35199;&#29916;&#24433;&#35270;","name": "&#127942;&#35199;&#29916;&#24433;&#35270;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/&#35199;&#29916;&#24433;&#35270;.json"},
+    {"key": "csp_xBPQ_&#40644;&#20179;&#24211;","name": "&#127942;&#40644;&#20179;&#24211;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/&#40644;&#20179;&#24211;.json"},
+    {"key": "csp_xBPQ_banban","name": "&#127942;banban","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/banban.json"},
+    {"key": "csp_xf_18av","name": "&#127942;18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/18av.json"},
+    {"key": "csp_xBPQ-&#29233;&#30475;&#24433;&#38498;","name": "&#127942;&#29233;&#30475;&#24433;&#38498;&#65039;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/&#29233;&#30475;&#24433;&#38498;&#65039;.json"},
+    {"key": "csp_xBPQ_&#40635;&#35910;&#26144;&#30011;","name": "&#127942;&#40635;&#35910;&#26144;&#30011;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%BA%BB%E8%B1%86%E6%98%A0%E7%94%BB.json"},
+    {"key": "csp_xBPQ_&#39321;&#34121;","name": "&#127942;&#39321;&#34121;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E9%A6%99%E8%95%89.json"},
+    {"key": "csp_xBPQ_&#24615;&#27442;&#36718;&#22238;","name": "&#127942;&#24615;&#27442;&#36718;&#22238;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E6%80%A7%E6%AC%B2%E8%BD%AE%E5%9B%9E.json"},
+    {"key": "csp_xBPQ_&#24615;&#27442;&#36718;&#22238;[&#20998;&#31867;]","name": "&#127942;&#24615;&#27442;&#36718;&#22238;[&#20998;&#31867;]","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E6%80%A7%E6%AC%B2%E8%BD%AE%E5%9B%9E_%E5%88%86%E7%B1%BB_.json"},
+    {"key": "csp_xBPQ_&#31934;&#19996;&#24433;&#19994;1","name": "&#127942;&#31934;&#19996;&#24433;&#19994;1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E7%B2%BE%E4%B8%9C%E5%BD%B1%E4%B8%9A1.json"},
+    {"key": "csp_xBPQ_&#31934;&#19996;&#24433;&#19994;2","name": "&#127942;&#31934;&#19996;&#24433;&#19994;2","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E7%B2%BE%E4%B8%9C%E5%BD%B1%E4%B8%9A2.json"},
+    {"key": "csp_xBPQ_AVideo","name": "&#127942;AVideo","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/AVideo.json"},
+    {"key": "csp_xBPQ_&#40644;&#29916;","name": "&#127942;&#40644;&#29916;","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/&#40644;&#29916;.json"},
 
-    {"key": "csp_XBiu_香蕉","name": "🍁香蕉(XB)️","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/香蕉.json"},
-    {"key": "csp_XBiu_小丑撸","name": "🍁小丑撸(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E5%B0%8F%E4%B8%91%E6%92%B8.json"},
-    {"key": "csp_XBiu_国产传媒","name": "🍁国产传媒(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E5%9B%BD%E4%BA%A7%E4%BC%A0%E5%AA%92.json"},
-    {"key": "csp_XBiu_老鸭","name": "🍁老鸭(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E8%80%81%E9%B8%AD.json"},
-    {"key": "csp_XBiu_掏爱撸","name": "🍁掏爱撸(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E6%8E%8F%E7%88%B1%E6%92%B8.json"},
-    {"key": "csp_XBiu_国产屋","name": "🍁国产屋(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E5%9B%BD%E4%BA%A7%E5%B1%8B.json"},
-    {"key": "csp_XBiu_爱看影院","name": "🍁爱看影院(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/爱看影院.json"},
-    {"key": "csp_XBiu_GAOAA","name": "🍁GAOAA(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/GAOAA.json"},
-    {"key": "csp_XBiu_黄仓库","name": "🍁黄仓库(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/黄仓库.json"},
-    {"key": "csp_XBiu_猫咪","name": "🍁猫咪(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E7%8C%AB%E5%92%AA.json"},
+    {"key": "csp_XBiu_&#39321;&#34121;","name": "&#127809;&#39321;&#34121;(XB)&#65039;","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/&#39321;&#34121;.json"},
+    {"key": "csp_XBiu_&#23567;&#19985;&#25784;","name": "&#127809;&#23567;&#19985;&#25784;(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E5%B0%8F%E4%B8%91%E6%92%B8.json"},
+    {"key": "csp_XBiu_&#22269;&#20135;&#20256;&#23186;","name": "&#127809;&#22269;&#20135;&#20256;&#23186;(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E5%9B%BD%E4%BA%A7%E4%BC%A0%E5%AA%92.json"},
+    {"key": "csp_XBiu_&#32769;&#40493;","name": "&#127809;&#32769;&#40493;(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E8%80%81%E9%B8%AD.json"},
+    {"key": "csp_XBiu_&#25487;&#29233;&#25784;","name": "&#127809;&#25487;&#29233;&#25784;(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E6%8E%8F%E7%88%B1%E6%92%B8.json"},
+    {"key": "csp_XBiu_&#22269;&#20135;&#23627;","name": "&#127809;&#22269;&#20135;&#23627;(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E5%9B%BD%E4%BA%A7%E5%B1%8B.json"},
+    {"key": "csp_XBiu_&#29233;&#30475;&#24433;&#38498;","name": "&#127809;&#29233;&#30475;&#24433;&#38498;(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/&#29233;&#30475;&#24433;&#38498;.json"},
+    {"key": "csp_XBiu_GAOAA","name": "&#127809;GAOAA(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/GAOAA.json"},
+    {"key": "csp_XBiu_&#40644;&#20179;&#24211;","name": "&#127809;&#40644;&#20179;&#24211;(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/XB/&#40644;&#20179;&#24211;.json"},
+    {"key": "csp_XBiu_&#29483;&#21674;","name": "&#127809;&#29483;&#21674;(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E7%8C%AB%E5%92%AA.json"},
 
-	{"key":"XYQBiu_测试2",	"name":"🔞zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/zb.json",		"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
-	{"key":"XYQBiu_测试3",	"name":"🔞cqzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/cqzy.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
-	{"key":"XYQBiu_测试4",	"name":"🔞nsss(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/nsss.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
-	{"key":"csp_hsck",		"name":"🔞Hsck","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar": "http://52bsj.vip:81/api/v3/file/get/61635/18.jar?sign=TqxkdwFQQUaAK59b950h1sgG8P6HKPbIGIFgvsBrhtQ%3D%3A0"},	
+	{"key":"XYQBiu_&#27979;&#35797;2",	"name":"&#128286;zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/zb.json",		"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
+	{"key":"XYQBiu_&#27979;&#35797;3",	"name":"&#128286;cqzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/cqzy.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
+	{"key":"XYQBiu_&#27979;&#35797;4",	"name":"&#128286;nsss(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/nsss.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
+	{"key":"csp_hsck",		"name":"&#128286;Hsck","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar": "http://52bsj.vip:81/api/v3/file/get/61635/18.jar?sign=TqxkdwFQQUaAK59b950h1sgG8P6HKPbIGIFgvsBrhtQ%3D%3A0"},	
     {
       "key": "18AV",
-      "name": "🔞18AV",
+      "name": "&#128286;18AV",
       "type": 3,
       "api": "csp_Eighteen",
       "searchable": 1,
@@ -105,74 +75,74 @@
     },
 		{
             "key" : "drpy_js_banan",
-            "name" : "🔞banan(DRPY)",
+            "name" : "&#128286;banan(DRPY)",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/banan.js"
         },
 		{
-            "key" : "drpy_js_养端",
-            "name" : "🔞养端（DRPY）",
+            "key" : "drpy_js_&#20859;&#31471;",
+            "name" : "&#128286;&#20859;&#31471;&#65288;DRPY&#65289;",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%85%BB%E7%AB%AF.js"
         },
 		{
-            "key" : "drpy_js_吸瓜",
-            "name" : "🔞吸瓜[请更换解析]",
+            "key" : "drpy_js_&#21560;&#29916;",
+            "name" : "&#128286;&#21560;&#29916;[&#35831;&#26356;&#25442;&#35299;&#26512;]",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%90%B8%E7%93%9C.js"
         },
 		{
             "key" : "drpy_js_18av",
-            "name" : "🔞18av（DRPY）",
+            "name" : "&#128286;18av&#65288;DRPY&#65289;",
             "type" : 3,
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
             "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/18av.js"
         },
 	
-{"key":"*色南国资源","name":"*🔞色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*狼友资源","name":"*🔞狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*皇冠资源","name":"*🔞皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
-{"key":"csp_biubiu_GAOAA","name":"*🔞GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42848/GAOAA.json?sign=RTEogEmpqCt7cdlDCudsxV_SNXZR11Qx11Z5_bDuEYE%3D%3A0"},	
+{"key":"*&#33394;&#21335;&#22269;&#36164;&#28304;","name":"*&#128286;&#33394;&#21335;&#22269;&#36164;&#28304;","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#29436;&#21451;&#36164;&#28304;","name":"*&#128286;&#29436;&#21451;&#36164;&#28304;","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#30343;&#20896;&#36164;&#28304;","name":"*&#128286;&#30343;&#20896;&#36164;&#28304;","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key": "*AIvin","name": "*&#128286;AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key":"csp_biubiu_GAOAA","name":"*&#128286;GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/42848/GAOAA.json?sign=RTEogEmpqCt7cdlDCudsxV_SNXZR11Qx11Z5_bDuEYE%3D%3A0"},	
 
-{ "key": "(18+)SS资源", "name": "*🔞SS资源", "type": 0, "api": "http://secj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
-{ "key": "(18+)JAV名优", "name": "*🔞JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
-{ "key": "(18+)秀色资源", "name": "🔞秀色资源", "type": 0, "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml", "playUrl": "https://player.leyuzy.net/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
-{"key": "精工厂","name": "*🔞精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
+{ "key": "(18+)SS&#36164;&#28304;", "name": "*&#128286;SS&#36164;&#28304;", "type": 0, "api": "http://secj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
+{ "key": "(18+)JAV&#21517;&#20248;", "name": "*&#128286;JAV&#21517;&#20248;", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
+{ "key": "(18+)&#31168;&#33394;&#36164;&#28304;", "name": "&#128286;&#31168;&#33394;&#36164;&#28304;", "type": 0, "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml", "playUrl": "https://player.leyuzy.net/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },	
+{"key": "&#31934;&#24037;&#21378;","name": "*&#128286;&#31934;&#24037;&#21378;","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
 
-{"key": "美少女","name": "*🔞美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0,"filterable": 1,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
+{"key": "&#32654;&#23569;&#22899;","name": "*&#128286;&#32654;&#23569;&#22899;","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0,"filterable": 1,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
 
 
-{"key": "哥哥妹妹","name": "*🔞有哥妹","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
-{"key": "*CK资源","name": "*🔞纯在线","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
-{"key": "*博天堂","name": "*🔞博天堂","type": 0,"api": "http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
-{"key":"*色猫资源","name":"*🔞色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"小姐姐资源","name":"*🔞小姐姐资源","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":1,"quickSearch":1},
+{"key": "&#21733;&#21733;&#22969;&#22969;","name": "*&#128286;&#26377;&#21733;&#22969;","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
+{"key": "*CK&#36164;&#28304;","name": "*&#128286;&#32431;&#22312;&#32447;","type": 1,"api": "http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
+{"key": "*&#21338;&#22825;&#22530;","name": "*&#128286;&#21338;&#22825;&#22530;","type": 0,"api": "http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable": 0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
+{"key":"*&#33394;&#29483;&#36164;&#28304;","name":"*&#128286;&#33394;&#29483;&#36164;&#28304;","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"&#23567;&#22992;&#22992;&#36164;&#28304;","name":"*&#128286;&#23567;&#22992;&#22992;&#36164;&#28304;","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":1,"quickSearch":1},
 
-{"key":"*精工厂资源","name":"*🔞精工厂资源","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"*&#31934;&#24037;&#21378;&#36164;&#28304;","name":"*&#128286;&#31934;&#24037;&#21378;&#36164;&#28304;","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml","searchable":0,"quickSearch":0},
 
-{"key":"*大MM资源","name":"*🔞大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"*&#22823;MM&#36164;&#28304;","name":"*&#128286;&#22823;MM&#36164;&#28304;","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
 
-{"key":"*酷豆资源","name":"*🔞酷豆资源","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*酷豆2","name":"*🔞酷豆2","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*酷伦理","name":"*🔞酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*影库资源","name":"*🔞影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*奶茶资源","name":"*🔞奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"*&#37239;&#35910;&#36164;&#28304;","name":"*&#128286;&#37239;&#35910;&#36164;&#28304;","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#37239;&#35910;2","name":"*&#128286;&#37239;&#35910;2","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#37239;&#20262;&#29702;","name":"*&#128286;&#37239;&#20262;&#29702;","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#24433;&#24211;&#36164;&#28304;","name":"*&#128286;&#24433;&#24211;&#36164;&#28304;","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#22902;&#33590;&#36164;&#28304;","name":"*&#128286;&#22902;&#33590;&#36164;&#28304;","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 
-{"key":"*美少女资源","name":"*🔞美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*淫水机资源","name":"*🔞淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*香奶儿资源","name":"*🔞香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*白嫖资源","name":"*🔞白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*小湿妹资源","name":"*🔞小湿妹资源","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*大地资源","name":"*🔞大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
-{"key":"*CK资源","name":"*🔞CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*老鸭资源","name":"*🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#32654;&#23569;&#22899;&#36164;&#28304;","name":"*&#128286;&#32654;&#23569;&#22899;&#36164;&#28304;","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"*&#28139;&#27700;&#26426;&#36164;&#28304;","name":"*&#128286;&#28139;&#27700;&#26426;&#36164;&#28304;","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"*&#39321;&#22902;&#20799;&#36164;&#28304;","name":"*&#128286;&#39321;&#22902;&#20799;&#36164;&#28304;","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"*&#30333;&#23254;&#36164;&#28304;","name":"*&#128286;&#30333;&#23254;&#36164;&#28304;","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"*&#23567;&#28287;&#22969;&#36164;&#28304;","name":"*&#128286;&#23567;&#28287;&#22969;&#36164;&#28304;","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"*&#22823;&#22320;&#36164;&#28304;","name":"*&#128286;&#22823;&#22320;&#36164;&#28304;","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
+{"key":"*CK&#36164;&#28304;","name":"*&#128286;CK&#36164;&#28304;","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#32769;&#40493;&#36164;&#28304;","name":"*&#128286;&#32769;&#40493;&#36164;&#28304;","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {
-      "key": "老鸭2",
-      "name": "*🔞老鸭2",
+      "key": "&#32769;&#40493;2",
+      "name": "*&#128286;&#32769;&#40493;2",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
@@ -181,51 +151,51 @@
       "filterable": 0
     },
  
-{"key":"*乐播资源","name":"*🔞乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*博天堂","name":"*🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
-{"key":"*环亚资源","name":"*🔞环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
-{ "key": "(18+)天堂福利", "name": "🔞天堂福利", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{ "key": "afasu", "name": "🔞小湿妹资源(已修复)", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        { "key": "KpgxdyE", "name": "🔞黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-//{"key":"*AVZY6888资源","name":"*🔞AVZY6888资源","type":1,"api":"http://m.7777688.com/inc/apijson.php","searchable":0,"quickSearch":0},
-{"key":"*色色资源","name":"*🔞色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*玖玖资源","name":"*🔞玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*狼少年","name":"*🔞狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*佳丽资源","name":"*🔞佳丽资源","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*番号资源","name":"*🔞番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-//{"key":"*鲨鱼资源","name":"*🔞鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*速度资源","name":"*🔞速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
-//{"key":"*丝袜资源","name":"*🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
-//{"key":"*芒果资源","name":"*🔞芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*KK写真资源","name":"*🔞KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}
+{"key":"*&#20048;&#25773;&#36164;&#28304;","name":"*&#128286;&#20048;&#25773;&#36164;&#28304;","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#21338;&#22825;&#22530;","name":"*&#128286;&#21338;&#22825;&#22530;","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
+{"key":"*&#29615;&#20122;&#36164;&#28304;","name":"*&#128286;&#29615;&#20122;&#36164;&#28304;","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
+{ "key": "(18+)&#22825;&#22530;&#31119;&#21033;", "name": "&#128286;&#22825;&#22530;&#31119;&#21033;", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{ "key": "afasu", "name": "&#128286;&#23567;&#28287;&#22969;&#36164;&#28304;(&#24050;&#20462;&#22797;)", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+        { "key": "KpgxdyE", "name": "&#128286;&#40644;AV&#36164;&#28304;(&#24050;&#20462;&#22797;)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+//{"key":"*AVZY6888&#36164;&#28304;","name":"*&#128286;AVZY6888&#36164;&#28304;","type":1,"api":"http://m.7777688.com/inc/apijson.php","searchable":0,"quickSearch":0},
+{"key":"*&#33394;&#33394;&#36164;&#28304;","name":"*&#128286;&#33394;&#33394;&#36164;&#28304;","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"*&#29590;&#29590;&#36164;&#28304;","name":"*&#128286;&#29590;&#29590;&#36164;&#28304;","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"*&#29436;&#23569;&#24180;","name":"*&#128286;&#29436;&#23569;&#24180;","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"*&#20339;&#20029;&#36164;&#28304;","name":"*&#128286;&#20339;&#20029;&#36164;&#28304;","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#30058;&#21495;&#36164;&#28304;","name":"*&#128286;&#30058;&#21495;&#36164;&#28304;","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+//{"key":"*&#40104;&#40060;&#36164;&#28304;","name":"*&#128286;&#40104;&#40060;&#36164;&#28304;","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*&#36895;&#24230;&#36164;&#28304;","name":"*&#128286;&#36895;&#24230;&#36164;&#28304;","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
+//{"key":"*&#19997;&#34972;&#36164;&#28304;","name":"*&#128286;&#19997;&#34972;&#36164;&#28304;","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
+//{"key":"*&#33426;&#26524;&#36164;&#28304;","name":"*&#128286;&#33426;&#26524;&#36164;&#28304;","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*KK&#20889;&#30495;&#36164;&#28304;","name":"*&#128286;KK&#20889;&#30495;&#36164;&#28304;","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}
 
 ],
 
 
 "parses":[
- {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"月","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"光","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"宝","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-{"name":"盒","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
+ {"name":"&#35299;&#26512;&#32858;&#21512;","type":3,"url":"Demo"},
+{"name":"&#26376;","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"&#20809;","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","&#33150;&#35759;","qiyi","&#29233;&#22855;&#33402;","&#22855;&#33402;","youku","&#20248;&#37239;","mgtv","&#33426;&#26524;","letv","&#20048;&#35270;","pptv","PPTV","sohu","bilibili","&#21716;&#21737;&#21716;&#21737;","&#21716;&#21737;"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"&#23453;","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
+{"name":"&#30418;","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
 {"name":"BOX","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
-{"name":"解析","type":0,"url":"https://h5.freejson.xyz/player/?url="},
-{"name":"解析2","type":1,"url":"rxjx.kuanjv.com/allm3u8.php?url="},
-{"name":"解析4","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{"name":"解析5","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"解析6","type":1,"url":"https://hc.izny.cn/json.php?url="},
-{"name":"解析7","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
-{"name":"解析8","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"解析9","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}}
+{"name":"&#35299;&#26512;","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+{"name":"&#35299;&#26512;2","type":1,"url":"rxjx.kuanjv.com/allm3u8.php?url="},
+{"name":"&#35299;&#26512;4","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"&#35299;&#26512;5","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"&#35299;&#26512;6","type":1,"url":"https://hc.izny.cn/json.php?url="},
+{"name":"&#35299;&#26512;7","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
+{"name":"&#35299;&#26512;8","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"&#35299;&#26512;9","type":1,"url":"http://3.37.195.161:54371/parse/api/&#26080;&#21517;.js?url=","header":{"User-Agent":"Mozilla/5.0"}}
 ],
 	
 "rules": [
 {"host":"*","rule":["default.365yg.com"]},{"host":"dyxs20.com","rule":[".m3u8"]},{"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]},{"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},{"host":"www.sharenice.net","rule":["qianpailive.com","vid="]},{"host":"*","rule":["douyin.com/aweme","video_id="]},{"host":"*","rule":["huoshan.com","/item/video/"]},{"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
 ],
 
-"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
+"flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905 ","funshion ","&#20248;&#37239;","&#33426;&#26524;","&#33150;&#35759;","&#29233;&#22855;&#33402;","&#22855;&#33402;","&#21716;&#21737;&#21716;&#21737;","&#21716;&#21737;"],
 "ijk":[
-{"group":"软解码","options":[
+{"group":"&#36719;&#35299;&#30721;","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
@@ -242,7 +212,7 @@
 {"category":4,"name":"mediacodec-hevc","value":"0"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]},
-{"group":"硬解码","options":[
+{"group":"&#30828;&#35299;&#30721;","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
 {"category":4,"name":"framedrop","value":"1"},
