@@ -52,7 +52,7 @@
     {"key": "csp_XBiu_猫咪","name": "🍁猫咪(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/ygbh1/666/-/raw/main/H/%E7%8C%AB%E5%92%AA.json"},
 
 	{"key":"XYQBiu_测试2",	"name":"🔞zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/yjl/dc/src/branch/master/%E6%B5%8B%E8%AF%95%E9%A6%99%E8%95%89%E7%9B%B4%E6%92%AD.json",		"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
-	{"key":"XYQBiu_测试3",	"name":"🔞cqzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/yjl/dc/raw/branch/master/%e9%a6%99%e8%95%89%e8%b6%85%e6%b8%85%e6%94%b9.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
+	{"key":"XYQBiu_测试3",	"name":"🔞cqzy(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/yjl/dc/raw/branch/master/%e6%96%b0%e9%a6%99%e8%95%89%e8%b6%85%e6%b8%85%e8%b5%84%e6%ba%90.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
 	{"key":"XYQBiu_测试4",	"name":"🔞nsss(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/nsss.json",	"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"},
 	{"key":"csp_hsck",		"name":"🔞Hsck","api":"csp_Hsck","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.javsee.men/","jar": "http://52bsj.vip:81/api/v3/file/get/61635/18.jar?sign=TqxkdwFQQUaAK59b950h1sgG8P6HKPbIGIFgvsBrhtQ%3D%3A0"},	
     {
