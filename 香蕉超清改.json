@@ -21,7 +21,7 @@
     "cat_prefix": "https://avhh.vip/cq/Kplay",
     "cat_suffix": "-1-1.html",
     
-	"search_url": "https://avhh.vip/cq/vod/search/page/wd/{wd}.html",
+	"search_url": "https://avhh.vip/cq/vod/search/wd/{catePg}/{wd}.html",
     "search_mode": "1",
     "jsonpic": "vod_pic",
     "jsonname": "vod_name",
