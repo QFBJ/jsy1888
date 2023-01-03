@@ -1,31 +1,87 @@
 {
-    "title": "凌云影视",
-    "author": "",
-    "UserAgent":"",
-    "firstpage": "1",
-    "homeContent": "1",
-     "class_url": "https://jhzb.live/?x=live-so-{cateId}.html",
-    "class_name": "亚洲&欧美&卡哇伊&咪狐&蜜桃&小妲己&LOVE&番茄&77&依依&日出&彩虹&久久&亚米&蝶恋&夜妖姬&套路&樱花&享色&红浪漫&金鱼&桃花&花房&小仙女&视觉秀&小天使&彩云&咪咪&娇媚&黄瓜&色趣&糯米&小蜜蜂&小红帽&桃花运&苦瓜&爱爱你&樱花雨&盘他&夜色&蝴蝶&小天仙&杏趣&小坏蛋&飘雪&樱桃&奥斯卡&兔女郎&花仙子&小性感&兔女郎&花仙子&小性感&新增1&新增2&小棉袄",
-    "class_value": "gwzb&omzb&kwy&mh&mt&xdj&love&fq&qq&yy&rc&ch&jj&ym&ld&yyj&tl&yh&xs&hlm&jy&th&hf&xxn&sjx&xts&cy&mm&jm&hg&sq&nm&xmf&xhm&thy&kg&aan&yh&pt&ys&hd&xtx&xq&xhd&px&yt&ask&tnl&hxz&xxg&xlj&xjl&xma",
- 
-
-    "cat_YN_twice": "0",
-    "cat_twice_pre": "",
-    "cat_twice_suf": "",
-    "cat_arr_pre": "div class=\"item ",
-    "cat_arr_suf": "</div>",
-    "cat_pic": "data-original=\"&&\"",
-    "cat_title": "title=\"&&\"",
-    "cat_subtitle": "",
-    "cat_url": "href=\"&&\"",
-    "cat_prefix": "https://jhzb.live",
-    "cat_suffix": "",
-    "force_play": "1",
-    "play_prefix": "",
-    "play_suffix": "",
-    "play_header": "",
-    "Anal_MacPlayer":"0",
-    "ManualSniffer":"1",
-    "VideoFormat":".mp4#.m3u8#.flv#item/video#is_play_url=1"
-    
+    "站名":"香蕉直播",
+    "主页url":"https://avss.vip/zb/",
+    "直接播放":"1",
+    "分类":"亚洲&欧美&卡哇伊&咪狐&蜜桃&小妲己&LOVE&番茄&77&依依&日出&彩虹&久久&亚米&蝶恋&夜妖姬&套路&樱花&享色&红浪漫&金鱼&桃花&花房&小仙女&视觉秀&小天使&彩云&咪咪&娇媚&黄瓜&色趣&糯米&小蜜蜂&小红帽&桃花运&苦瓜&爱爱你&樱花雨&盘他&夜色&蝴蝶&小天仙&杏趣&小坏蛋&飘雪&樱桃&奥斯卡&兔女郎&花仙子&小性感&兔女郎&花仙子&小性感&新增1&新增2&小棉袄",
+    "分类url":"gwzb&omzb&kwy&mh&mt&xdj&love&fq&qq&yy&rc&ch&jj&ym&ld&yyj&tl&yh&xs&hlm&jy&th&hf&xxn&sjx&xts&cy&mm&jm&hg&sq&nm&xmf&xhm&thy&kg&aan&yh&pt&ys&hd&xtx&xq&xhd&px&yt&ask&tnl&hxz&xxg&xlj&xjl&xma",
+    "数组":"<a&&</a>",
+    "图片":"data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+    "副标题":"<div class=\"duration\">&&</div>",
+    "链接":"href=\"&&\"",
+    "链接前缀":"https://jhzb.live",
+    "链接后缀":"",
+    "免嗅":"0",
+    "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+    "筛选":{
+        "xxj":[
+            {
+                "key":"class",
+                "name":"",
+                "value":[
+                    {"n":"小妲己直播","v":"xdj"},
+                    {"n":"卡哇伊直播","v":"kwy"},
+                    {"n":"咪狐直播","v":"mh"},
+                    {"n":"蜜桃直播","v":"mt"},
+                    {"n":"LOVE直播","v":"love"},
+                    {"n":"番茄直播","v":"fq"},
+                    {"n":"七七直播","v":"qq"},
+                    {"n":"依依直播","v":"yy"},
+                    {"n":"日出直播","v":"rc"},
+                    {"n":"彩虹直播","v":"ch"},
+                    {"n":"久久直播","v":"jj"}
+                ]
+            },
+            {
+                "key":"class",
+                "name":"",
+                "value":[
+                    {"n":"亚米直播","v":"ym"},
+                    {"n":"恋蝶直播","v":"ld"},
+                    {"n":"夜妖姬直播","v":"yyj"},
+                    {"n":"套路直播","v":"tl"},
+                    {"n":"樱花直播","v":"yh"},
+                    {"n":"享色直播","v":"xs"},
+                    {"n":"红浪漫直播","v":"hlm"},
+                    {"n":"金鱼直播","v":"jy"},
+                    {"n":"桃花直播","v":"th"},
+                    {"n":"花房直播","v":"hf"},
+                    {"n":"小仙女直播","v":"xxn"}
+                ]
+            },
+            {
+                "key":"class",
+                "name":"",
+                "value":[
+                    {"n":"视觉秀直播","v":"sjx"},
+                    {"n":"小天使直播","v":"xts"},
+                    {"n":"彩云直播","v":"cy"},
+                    {"n":"咪咪直播","v":"mm"},
+                    {"n":"娇媚直播","v":"jm"},
+                    {"n":"黄瓜直播","v":"hg"},
+                    {"n":"色趣直播","v":"sq"},
+                    {"n":"糯米直播","v":"nm"},
+                    {"n":"小蜜蜂直播","v":"xmf"},
+                    {"n":"小红帽直播","v":"xhm"},
+                    {"n":"桃花运直播","v":"thy"}
+                ]
+            },
+            {
+                "key":"class",
+                "name":"",
+                "value":[
+                    {"n":"苦瓜直播","v":"kg"},
+                    {"n":"爱爱你直播","v":"aan"},
+                    {"n":"樱花雨直播","v":"yh"},
+                    {"n":"盘他直播","v":"pt"},
+                    {"n":"夜色直播","v":"ys"},
+                    {"n":"蝴蝶直播","v":"hd"},
+                    {"n":"小天仙直播","v":"xtx"},
+                    {"n":"杏趣直播","v":"xq"},
+                    {"n":"小坏蛋直播","v":"xhd"},
+                    {"n":"飘雪直播","v":"px"}
+                ]
+            }
+        ]
+    }
 }
