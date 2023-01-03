@@ -18,11 +18,11 @@
     "cat_pic": "data-original=\"&&\"",
     "cat_title": "title=\"&&\"",
     "cat_subtitle": "",
-    "cat_url": "href=\"&&\"",
-    "cat_prefix": "https://qq54321.vip",
-    "cat_suffix": "",
+    "cat_url": "href=\"/cq/k&&.html\"",
+    "cat_prefix": "https://avhh.vip/cq/Kplay",
+    "cat_suffix": "-1-1.html",
     
-	"search_url": "https://qq54321.vip/?ju=search/cqzy/so/0.html&TXT={wd}",
+	"search_url": "https://avhh.vip/cq/vod/search/page/{catePg}/wd/{wd}.html",
     "search_mode": "1",
     "jsonpic": "vod_pic",
     "jsonname": "vod_name",
@@ -38,7 +38,7 @@
     "sea_title": "title=\"&&\"",
     "sea_url": "href=\"&&\"",
     //搜索片单链接补前缀
-	"search_prefix": "https://qq54321.vip",
+	"search_prefix": "https://avhh.vip/cq/",
     "search_suffix": "",
     "sea_subtitle": "空",
      //片单链接是否直接播放，1是直接播放。
@@ -71,7 +71,7 @@
     "epi_arr_suf": "a>",
     "epi_title": ">&&<",
     "epi_url": "href=\"&&\"",
-    "epiurl_prefix": "https://qq54321.vip",
+    "epiurl_prefix": "https://avhh.vip/cq/",
     "epiurl_suffix": ""
     
 }
