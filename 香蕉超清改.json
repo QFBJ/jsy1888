@@ -9,69 +9,40 @@
     "class_value": "2k-yazhou2k-yazhou&2k-zipaitoupai&2k-chaoqingchuanmei&2k-3Ddongman&2k-oumei2k-oumei&2k-luanlunrenqi&2k-siwazhifu&2k-zhibolubo&2k-SMlinglei&2k-chaoqingsanji",
 	"filterdata":"",
     
-	//分类是否二次截取
-    "cat_YN_twice": "0",									
-    "cat_twice_pre": "",
-    "cat_twice_suf": "",
-    "cat_arr_pre": "div class=\"item ",
+    "cat_YN_twice": "0",
+    "cat_twice_pre": "class=\"vodlist\"",
+    "cat_twice_suf": "</ul>",
+    "cat_arr_pre": "class=\"vod_box",
     "cat_arr_suf": "</div>",
     "cat_pic": "data-original=\"&&\"",
     "cat_title": "title=\"&&\"",
     "cat_subtitle": "",
-    "cat_url": "href=\"/cq/k&&.html\"",
+    "cat_url": "href=\"&&\"",
     "cat_prefix": "https://avhh.vip/cq/",
     "cat_suffix": "",
-    
-	"search_url": "https://avhh.vip/cq/vod/search/page/{catePg}/wd/{wd}.html",
-    "search_mode": "1",
+
+
+    "search_url": "https://avhh.vip/cq/vod/search/page/{catePg}/wd/{wd}.html",//搜索网址
+    "search_mode": "1",//搜索模式，0是json格式，1是网页截取
     "jsonpic": "vod_pic",
     "jsonname": "vod_name",
     "jsonid": "vod_id",
     "jsonstitle":"",
-    //搜索是否二次截取
-	"sea_YN_twice": "1",								
-    "sea_twice_pre": "空",
-    "sea_twice_suf": "空",
-    "sea_arr_pre": "div class=\"item ",
-    "sea_arr_suf": "</div>",
-    "sea_pic": "data-original=\"&&\"",
-    "sea_title":"title=\"&&\"",
-    "sea_url":"href=\"/cq/k&&.html\",
-    //搜索片单链接补前缀
-	"search_prefix":"https://avhh.vip/cq/Kplay",
-    "search_suffix": "",
-    "sea_subtitle": "空",
-     //片单链接是否直接播放，1是直接播放。
-	"force_play": "1",
+    "sea_YN_twice": "1",//是否二次截取
+    "sea_twice_pre": "class=\"vodlist\"",//截取前
+    "sea_twice_suf": "</ul>",//截取后
+    "sea_arr_pre": "class=\"vod_box\"",//数组前
+    "sea_arr_suf": "</a>",//数组后
+    "sea_pic": "data-original=\"&&\"",//图片
+    "sea_title": "title=\"&&\"",//标题
+    "sea_url": "href=\"&&\"",//地址
+    "search_prefix": "https://avhh.vip/cq/",//地址前缀
+
+    "force_play": "1",
     "play_prefix": "空",
     "play_suffix": "空",
     "play_header": "空",
-   
-    "proj_actor": "更新：&&</div>",									
-    "proj_plot": "片名：&&</div>",
-	
-	//线路是否二次截取
-    "tab_YN_twice": "0",
-    "tab_twice_pre": "",								
-    "tab_twice_suf": "",
-    "tab_arr_pre": "更新时间:",
-    "tab_arr_suf": "/div>",
-    "tab_title": ">&&<",
-	//列表是否二次截取
-    "list_YN_twice": "0",
-    "list_twice_pre": "空",
-    "list_twice_suf": "空",
-    "list_arr_pre": "size=\"3px",
-    "list_arr_suf": "</font>",
-   
-   "epi_YN_twice": "0",
-    "epi_twice_pre": "空",
-    "epi_twice_suf": "空",
-    "epi_arr_pre": "<a",
-    "epi_arr_suf": "a>",
-    "epi_title": ">&&<",
-    "epi_url": "href=\"&&\"",
-    "epiurl_prefix": "https://avhh.vip/cq/",
-    "epiurl_suffix": ""
-    
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv#item/video#is_play_url=1"
+        
 }
