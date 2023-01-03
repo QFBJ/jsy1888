@@ -3,6 +3,7 @@
     "主页url":"https://jyzb.live/",
     "直接播放":"1",
     "分类":"新香蕉直播$live#亚洲直播$yzzb-so-omzb#视觉秀$?x=live-so-sjx",
+    "分类url":"https://jyzb.live/{cateId}-{catePg}.html",
     "数组":"<a&&</a>",
     "图片":"data-original=\"&&\"",
     "标题":"title=\"&&\"",
@@ -10,7 +11,6 @@
     "链接":"href=\"&&\"",
     "链接前缀":"href=\"/so/&&.html\"",
     "链接后缀":".html",
-    "分类url":"https://jyzb.live/?x={cateId}/so/{class}.html",
     "免嗅":"0",
     "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
     "筛选":{
