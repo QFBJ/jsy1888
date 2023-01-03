@@ -18,10 +18,10 @@
     "cat_title": "title=\"&&\"",
     "cat_subtitle": "",
     "cat_url": "href=\"&&\"",
-    "cat_prefix": "https://qq54321.vip",
+    "cat_prefix": "hhttps://avhh.vip/cq/",
     "cat_suffix": "",
     
-	"search_url": "https://qq54321.vip/?ju=search/cqzy/so/0.html&TXT={wd}",
+	"search_url": "https://avhh.vip/cq/vod/search/page/{catePg}/wd/{wd}.html",
     "search_mode": "1",
     "jsonpic": "vod_pic",
     "jsonname": "vod_name",
@@ -37,7 +37,7 @@
     "sea_title": "title=\"&&\"",
     "sea_url": "href=\"&&\"",
     //搜索片单链接补前缀
-	"search_prefix": "https://qq54321.vip",
+	"search_prefix": "https://avhh.vip/cq/",
     "search_suffix": "",
     "sea_subtitle": "空",
      //片单链接是否直接播放，1是直接播放。
