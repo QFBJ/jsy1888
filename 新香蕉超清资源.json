@@ -2,6 +2,7 @@
     "站名":"超清资源",
     "主页url":"https://avhh.vip/cq/",
     "直接播放":"1",
+    "分类url":"https://avhh.vip/cq/{cateId}-{catePg}.html",
     "分类":"亚洲AV&自拍偷拍&超清传媒&3D动漫&欧美AV&乱伦人妻&丝袜制服&直播录播&SM另类&超清三级",
     "class_name":"2k-yazhou2k-yazhou&2k-zipaitoupai&2k-chaoqingchuanmei&2k-3Ddongman&2k-oumei2k-oumei&2k-luanlunrenqi&2k-siwazhifu&2k-zhibolubo&2k-SMlinglei&2k-chaoqingsanji",
     "数组":"<div class=\"item\"&&</div>",
@@ -20,7 +21,6 @@
     "搜索url":"https://avhh.vip/cq/vod/search/page/{catePg}/wd/{wd}.html",
     "搜索链接前缀":"https://avhh.vip/cq/Kplay",
     "搜索链接后缀":"-1-1.html",
-    "分类url":"https://avhh.vip/cq/{cateId}-{catePg}.html",
     "免嗅":"0",
     "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
 }
