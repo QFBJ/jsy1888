@@ -3,6 +3,16 @@
   "spider":"https://agit.ai/yjl/tv1/src/commit/8ac413c5fa952a972e863d470d60ddcf1f33be3e/jar/1215.jar",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xsaTg3NzkxODIvOS9yYXcvYnJhbmNoL21hc3Rlci9oemI="]}]}],
   "sites": [
+   {
+            "key" : "py_Nvtuan",
+            "name" : "🅱️女团热舞",
+            "type" : 3,
+            "api" : "py_Nvtuan",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "./Bili/nvtuan.py"
+        },
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"18","name":"🔞🈲分割线——————","type":0,"api":""},
 {"key":"12","name":"🔞分割线——————","type":0,"api":""},
