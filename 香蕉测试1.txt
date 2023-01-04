@@ -2,7 +2,7 @@
 
 
 //0730JAR
-"spider":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
+"spider":"https://agit.ai/yjl/dcck/src/commit/eea15bda7e4b6a209bc9788e87450f287bc45002/JRA/%e4%b8%8d%e8%89%af%e5%b8%85.jar;md5;cdd64c9361c1127ea3bfec82ce445ba1",
 
 
 
