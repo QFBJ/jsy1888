@@ -21,7 +21,7 @@
     "cat_prefix": "https://88jjav.com/vod/search/",
     "cat_suffix": "",
     
-	"search_url": "https://88jjav.com/vod/search/page/1/wd/{wd}.html",
+	"search_url": "https://88jjav.com/vod/search/{wd}",
     "search_mode": "1",
     "jsonpic": "vod_pic",
     "jsonname": "vod_name",
