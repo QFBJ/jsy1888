@@ -17,7 +17,7 @@
     "cat_pic": "data-original=\"&&\"",
     "cat_title": "title=\"&&\"",
     "cat_subtitle": "",
-    "cat_url": "href=\"/cq/k&&.html\"",
+    "cat_url": "href=\"&&\"",
     "cat_prefix": "https://avhh.vip",
     "cat_suffix": "",
     
@@ -35,7 +35,7 @@
     "sea_arr_suf": "</div>",
     "sea_pic": "data-original=\"&&\"",
     "sea_title": "title=\"&&\"",
-    "sea_url": "href=\"/cq/k&&.html\"",
+    "sea_url": "href=\"&&\"",
     //搜索片单链接补前缀
 	"search_prefix": "https://avhh.vip",
     "search_suffix": "",
