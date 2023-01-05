@@ -2,7 +2,7 @@
 
 
 //0730JAR
-"spider":"https://agit.ai/yjl/dcck/src/branch/master/JRA/1215.jar;md5;77df660c04a8f8da217b0cf1f1fb496c",
+"spider":"https://agit.ai/yjl/dcck/src/branch/master/JRA/1215.jar",
 
 
 
