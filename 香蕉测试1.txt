@@ -2,7 +2,7 @@
 
 
 //0730JAR
-"spider":"",
+"spider":"https://agit.ai/yjl/dcck/src/commit/b01777ad5871518951ee2bd471591361867f0bb7/JRA/%e4%b8%8d%e8%89%af%e5%b8%85.txt",
 
 
 
