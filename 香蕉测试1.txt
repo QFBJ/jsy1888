@@ -2,6 +2,7 @@
 
 
 //0730JAR
+ "spider": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/jar/h.jar;md5;4dabd8387d2214bfb9853cc3dba98d08",
 "spider":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/jar/不良帅.txt;md5;9B7497FFABF042503DD121D3ED64F62A",
 "spider":"https://agit.ai/yjl/tv1/src/commit/187c57164b429f16af8be4e4606e1833032ca63b/jar/1215.jar",
 
