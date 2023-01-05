@@ -1,10 +1,17 @@
 {
-  "rules": [
-  {"host":"v.douyin.com", "rule":["douyinvod.com", "/video/tos/cn/", "mime_type="]},
-  {"host":"*", "rule":["cn-beijing.data.alicloudccp.com", "/", "di=", "dr=", "f=", "response-content-disposition=", "security-token=", "u=", "x-oss-access-key-id=", "x-oss-expires=", "x-oss-signature=", "x-oss-signature-version="]},
-  {"host":"www.iesdouyin.com", "rule":["douyinvod.com", "/video/tos/cn/", "mime_type="]}
-], 
-	"sites": [
+
+
+//0730JAR
+"spider":"https://agit.ai/yjl/tv1/src/commit/187c57164b429f16af8be4e4606e1833032ca63b/jar/1215.jar",
+
+
+
+
+
+
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3pCLnR4dA=="]}]}],
+
+"sites":[
 
 {"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
 {"key":"12","name":"🔞分割线——————","type":0,"api":""},
