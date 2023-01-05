@@ -30,7 +30,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_bilimd.py"
+		"ext": "https://agit.ai/yjl/dcck/src/commit/2725c592bcb02481e305d7405c5b94eeb3e2fa61/plugin/py_bilimd.py"
 	},
        {"key":"py_biliys",
         "name":"🅱️哔站┃影视",
